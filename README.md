@@ -57,6 +57,13 @@ germany-electricity-market/
     `pip install -r requirements.txt`
 3.  Run the notebooks in order (01 -> 02 -> 03).
 
+## 📊 Interactive Dashboards
+The static images below are just previews. **[Click here to explore the full interactive dashboards on Tableau Public.](https://public.tableau.com/app/profile/gaurav.hada/viz/germany_electricity_market_analysis/SystemOverview?publish=yes)**
+
+[![Dashboard Preview](images/dashboard_1_system_overview.png)](https://public.tableau.com/app/profile/gaurav.hada/viz/germany_electricity_market_analysis/SystemOverview?publish=yes)
+
+*Tip: Use the tabs at the top of the Tableau visualization to navigate between "System Overview", "Price Drivers", and "Volatility Analysis".*
+
 ## 📬 Contact
 * **Author:** Gaurav Hada
 * **Data Source:** [SMARD.de](https://www.smard.de/en)
