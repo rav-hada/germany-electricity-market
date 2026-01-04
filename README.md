@@ -60,7 +60,7 @@ germany-electricity-market/
 ## 📊 Interactive Dashboards
 The static images below are just previews. **[Click here to explore the full interactive dashboards on Tableau Public.](https://public.tableau.com/app/profile/gaurav.hada/viz/germany_electricity_market_analysis/SystemOverview?publish=yes)**
 
-[![Dashboard Preview](images/dashboard_1_system_overview.png)](https://public.tableau.com/app/profile/gaurav.hada/viz/germany_electricity_market_analysis/SystemOverview?publish=yes)
+[![Dashboard Preview](https://github.com/user-attachments/assets/d5a712c2-d6b4-4e7b-985e-a917c0fe4067)](https://public.tableau.com/app/profile/gaurav.hada/viz/germany_electricity_market_analysis/SystemOverview?publish=yes)
 
 *Tip: Use the tabs at the top of the Tableau visualization to navigate between "System Overview", "Price Drivers", and "Volatility Analysis".*
 
